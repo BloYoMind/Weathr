@@ -1,4 +1,4 @@
-# Weathr 🌤️
+# Weathr 
 A fast, lightweight command-line weather tool powered by NOAA and OpenStreetMap — no API key required.
 Get accurate forecasts and open the radar for any location instantly.
 
