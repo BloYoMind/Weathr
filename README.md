@@ -20,6 +20,13 @@ Get accurate forecasts and open the radar for any location instantly.
 ---
 
 ## 📦 Installation
+**You have 2 options here:**
+### Option 1 *(The Easy Way)*:
+
+Download the .exe file from the latest release
+
+### Option 2 *(The Hard Way)*:
+
 Clone the repository:
 
 ```bash
