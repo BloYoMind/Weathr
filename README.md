@@ -116,5 +116,5 @@ pip install requests
 Pull requests are welcome!
 If you find a bug or want a feature added, open an issue.
 
-##📜 License
+## 📜 License
 MIT License — free to use, modify, and distribute.
