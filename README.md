@@ -4,22 +4,22 @@ Get accurate forecasts and open the radar for any location instantly.
 
 ---
 
-## ✨ Features
-🌎 Search weather by city, state, ZIP code, or place name
+## Features
+Search weather by city, state, ZIP code, or place name
 
-🌡️ Current temperature, wind, and conditions
+Current temperature, wind, and conditions
 
-🛰️ One-click radar view in your browser
+One-click radar view in your browser
 
-🔌 No API keys, no accounts, no tracking
+No API keys, no accounts, no tracking
 
-🖥️ Works on Windows, macOS, and Linux
+Works on Windows, macOS, and Linux
 
-⚡ Simple, fast, and open-source
+Simple, fast, and open-source
 
 ---
 
-## 📦 Installation
+## Installation
 **You have 2 options here:**
 ### Option 1 *(The Easy Way)*:
 
@@ -37,7 +37,7 @@ Install dependencies:
 
 ```bash
 pip install requests
-🚀 Usage
+Usage
 Run the script:
 ```
 
@@ -64,7 +64,7 @@ You will then be asked if you want to open the radar in your browser.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 1. Geocoding  
 Uses OpenStreetMap Nominatim to convert your location into latitude/longitude.
 
@@ -76,7 +76,7 @@ Opens the live NOAA radar viewer centered on the nearest radar station.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```Code
 Weathr/
 │
@@ -87,7 +87,7 @@ Weathr/
 
 ---
 
-## 🧰 Requirements
+## Requirements
 ### Python 3.8+
 ---
 ### requests library
@@ -99,7 +99,7 @@ pip install requests
 
 ---
 
-## 🛣️ Roadmap
+## Roadmap
 [ ] Hourly forecast option
 
 [ ] Metric/imperial toggle
@@ -116,5 +116,5 @@ pip install requests
 Pull requests are welcome!
 If you find a bug or want a feature added, open an issue.
 
-## 📜 License
+## License
 MIT License — free to use, modify, and distribute.
